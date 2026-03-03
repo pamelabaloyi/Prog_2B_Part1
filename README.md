@@ -16,6 +16,7 @@ Programme Coordinator – Review and process claims
 Academic Manager – Final approval and oversight
 
 Core Entities
+
 *Lecturer
 
 *Claim
@@ -37,16 +38,6 @@ C#
 SQL Server (Planned)
 
 Git & GitHub
-
- Planned Enhancements
-
-*Backend integration (Entity Framework Core)
-
-*Authentication & authorization
-
-*Automated claim validation
-
-*Audit logging
 
 Author
 
