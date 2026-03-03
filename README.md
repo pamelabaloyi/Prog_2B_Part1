@@ -10,7 +10,9 @@ Current version: Frontend prototype (UI only). Backend and database integration 
 User Roles
 
 Lecturer – Submit monthly claims, upload documents, track status
+
 Programme Coordinator – Review and process claims
+
 Academic Manager – Final approval and oversight
 
 Core Entities
