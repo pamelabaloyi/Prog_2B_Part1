@@ -17,30 +17,39 @@ Academic Manager – Final approval and oversight
 
 Core Entities
 *Lecturer
+
 *Claim
+
 *SupportingDocument
 
 Relationships:
 
 *One Lecturer → Many Claims
+
 *One Claim → Many Supporting Documents
 
 Tech Stack
 
 C#
-.NET Core (WPF / ASP.NET MVC)
+
+.NET Core (WPF / ASP.NET MVC
+
 SQL Server (Planned)
+
 Git & GitHub
 
  Planned Enhancements
 
 *Backend integration (Entity Framework Core)
+
 *Authentication & authorization
+
 *Automated claim validation
+
 *Audit logging
-*Email notifications
-*Azure deployment
 
 Author
+
 Pamela Baloyi
+
 (Software Development)
